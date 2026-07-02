@@ -1,4 +1,4 @@
-# dutyper-application
+# AI Attendace Management
 # 🤖 Smart Chatbot for Automated Attendance System Using AI
 
 An AI-powered Automated Attendance System integrated with a smart chatbot that simplifies attendance management, provides instant responses, and enhances user interaction. This project combines Artificial Intelligence, Machine Learning, and chatbot technology to automate attendance tracking and answer attendance-related queries efficiently.
